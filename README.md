@@ -1,2 +1,2 @@
 # CM-Changelogs
-Changelogs for the client modpack and server modifications for the Create-Multiplex Minecraft server
+Latest and upcomming changes can be found in: server or modpack
