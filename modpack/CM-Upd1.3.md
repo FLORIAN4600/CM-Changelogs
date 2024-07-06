@@ -8,6 +8,7 @@
 - Create: Broken bad *useful for ethically approved roleplay (with only one prerequisite: **SAY MY GODDAM NAME**)*
 ## Removals:
 - Lazurite *(Embeddium now comes with its own FRAPI compatibility)*
+- Journeymap Teams *(Duplicate with Journeymap Integration)*
 ## Updates:
 - Embeddium *(bumped to latest version)*
 - Embeddium++ *(same as Embeddium)*
