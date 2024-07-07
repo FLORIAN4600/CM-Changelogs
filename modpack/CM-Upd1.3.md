@@ -9,6 +9,9 @@
 ## Removals:
 - Lazurite *(Embeddium now comes with its own FRAPI compatibility)*
 - Journeymap Teams *(Duplicate with Journeymap Integration)*
+- Entity Culling *as it's becoming a duplicate with Brute Force Render Culling, and because it is using on its own 1 Gig of RAM (determined in start menu)*
+- Create Encased *Is pure cosmetics, and uses 200-300 Mb of RAM (determined in start menu)*
+- Create Track Map *This mod is server-only... It should not be in here*
 ## Updates:
 - Embeddium *(bumped to latest version)*
 - Embeddium++ *(same as Embeddium)*
@@ -16,7 +19,7 @@
 - Immediatly Fast *better compatibility and caching*
 - ModernFix *updated for better optimizations*
 - MagFgLib *bumped to latest for compatibility reasons*
-- Entity Culling
+- ~~Entity Culling~~
 - Curios API
 
 # Create Multiplex v1.3 - Basic
