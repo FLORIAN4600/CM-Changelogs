@@ -20,6 +20,7 @@
 - Entity Culling *as it's becoming a duplicate with Brute Force Render Culling, and because it is using on its own 1 Gig of RAM (determined in start menu)*
 - Create Encased *Is pure cosmetics, and uses 200-300 Mb of RAM (determined in start menu)*
 - Create Track Map *This mod is server-only... It should not be in here*
+- Create Jetpack *duplicate with Create Stuff & Additions*
 ## Updates:
 - Balm [7.3.6]
 - Botarium [2.3.4]
