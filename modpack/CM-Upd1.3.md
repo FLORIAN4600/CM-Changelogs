@@ -6,7 +6,12 @@
 - Distant Horizons *permisses having a far better render distance for minor performances costs* ***(usefull for people with potato computer as it implies aving the mod dealing with down from 32 chunks of render distance, while Minecraft render distance is set to 4)***
 - JEI Multiblocks *adds a way to preview the Immersive Engineering multiblocks & to see their total costs*
 - Create: Broken bad *useful for ethically approved roleplay (with only one prerequisite: **SAY MY GODDAM NAME**)*
+- Open Parties and Claims *more compatibilities and better configurations & possibilities* **Compatible with: Create, Journeymap & BlueMap**
+- JourneyPac *adds the Journeymap compatibility to OpenPaC*
 ## Removals:
+- FTB Teams *replaced by OpenPaC*
+- FTB Chunks *now obselete and deprecated by OpenPaC*
+- FTB Libraries *no more needs of it*
 - Lazurite *(Embeddium now comes with its own FRAPI compatibility)*
 - Journeymap Teams *(Duplicate with Journeymap Integration)*
 - Entity Culling *as it's becoming a duplicate with Brute Force Render Culling, and because it is using on its own 1 Gig of RAM (determined in start menu)*
