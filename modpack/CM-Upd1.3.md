@@ -2,7 +2,7 @@
 // This Changelog is currently in revision for the v1.3 maintenance <br>
 // **Warning:** Might be unstable
 
-# Create Multiplex v1.3 - Minimal/Lite
+# Create Multiplex v1.3 - Lite
 ## Additions:
 - Brute Force Render Culling [0.5.11] *permisses to cull additionnal chunks that the player cannot see, use for better performances*
 - Distant Horizons [2.1.2-a] *permisses having a far better render distance for minor performances costs* ***(usefull for people with potato computer as it implies aving the mod dealing with down from 32 chunks of render distance, while Minecraft render distance is set to 4)***
