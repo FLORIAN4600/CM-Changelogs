@@ -8,6 +8,10 @@
 ## Create: Broken Bad
 ### Adds rpg type items and crafts
 # Server Removals
+## Create Encased
+### No longer needed: pure cosmetics & duplicate
+## Create Jetpack
+### Duplicate with Create Stuff & Additions
 ## FTB mods
 ### Replaced by OpenPaC
 - FTB Teams
