@@ -50,8 +50,8 @@
 - ~~Entity Culling~~
 
 # Create Multiplex v1.3 - Basic
-### Same changelog **Lite**
-- *At the exception of JourneyMap Integration, as it is now only in Basic or up*
+### Same changelog as **Lite**
+*At the exception of JourneyMap Integration, as it is now only in Basic or up*
 ## Additions:
 - Just Enough Immersive Multiblocks [1.0.0] *adds a way to preview the Immersive Engineering multiblocks & to see their total costs*
 - Create Big Contraptions [1.0 (Release)] *for whom likes to import big schematics*
@@ -63,8 +63,8 @@
 
 
 # Create Multiplex v1.3 - Advanced
-### Same changelog **Basic**
-- *At the exception of Sound Physics Remastered, which is still present in the Advanced version*
+### Same changelog as **Basic**
+*At the exception of Sound Physics Remastered, which is still present in the Advanced version*
 ## Updates:
 - Forgematica [0.1.5] *fixing advanced block entities causing crashes*
 - MapFrontiers [2.6.0p4] *fixing first time loading crashes & server misleading infos*
