@@ -67,6 +67,8 @@
 # Create Multiplex v1.3 - Advanced
 ### Same changelog as **Basic**
 *At the exception of Sound Physics Remastered, which is still present in the Advanced version*
+## Additions
+- pv-addon-soundphysics [1.0.1] *sound physics for plasmo voice*
 ## Updates:
 - Forgematica [0.1.5] *fixing advanced block entities causing crashes*
 - MapFrontiers [2.6.0p4] *fixing first time loading crashes & server misleading infos*
