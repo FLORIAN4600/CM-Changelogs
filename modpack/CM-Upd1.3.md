@@ -70,5 +70,4 @@
 ## Updates:
 - Forgematica [0.1.5] *fixing advanced block entities causing crashes*
 - MapFrontiers [2.6.0p4] *fixing first time loading crashes & server misleading infos*
-## Updates:
 - Sound Physics Remastered [1.4.2] *Create compatibility*
