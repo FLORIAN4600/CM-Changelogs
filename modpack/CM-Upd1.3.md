@@ -10,6 +10,7 @@
 - Open Parties and Claims [b0.23.0] *more compatibilities and better configurations & possibilities* **Compatible with: Create, Journeymap & BlueMap**
 - JourneyPac [1.1.5] *adds the Journeymap compatibility to OpenPaC*
 - Create: Dreams & Desires [0.1bRelease-Early-Dev] *adds some QoL features to create, and a whole new freezing craft*
+- Create: Vintage Improvements [0.1.5.1] *some more automation possibilities as asked by the community*
 ## Removals:
 - FTB Teams *replaced by OpenPaC*
 - FTB Chunks *now obselete and deprecated by OpenPaC*
