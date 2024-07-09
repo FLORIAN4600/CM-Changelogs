@@ -7,6 +7,8 @@
 ### Adds QoL features to the automatisation experience
 ## Create: Broken Bad
 ### Adds rpg type items and crafts
+## Create: Vintage Improvements
+### Adds some automation machines and manufactured items
 # Server Removals
 ## Create Encased
 ### No longer needed: pure cosmetics & duplicate
