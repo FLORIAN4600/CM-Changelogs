@@ -14,6 +14,16 @@
 ### No longer needed: pure cosmetics & duplicate
 ## Create Jetpack
 ### Duplicate with Create Stuff & Additions
+## GPU Memory Leak fix
+### Server has no GPU ?!!
+## JourneyMap Integration
+### Client only mod
+## JEI Integration
+### Client side only
+## JourneyMap Teams
+### No longer needed
+## Just Enough Resources
+### Client side only
 ## FTB mods
 ### Replaced by OpenPaC
 - FTB Teams
