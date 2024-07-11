@@ -5,8 +5,8 @@
 ## BlueMap
 - Changed compression algorythm to zstd, which is faster and produces smaller files
 ## Create Goggles
-- Removed goggles helmet crafting
-- Added a custom curios slot for goggles
+- // Tried removing goggles helmet crafting as it is the cause of a durability duplication glitch, but the mod is not updated enough for it
+- // Tried adding a custom curios slot for goggles and tanks, but the mod currently does not have this feature
 ## Create Big Cannons
 - Tweaked explosion values: cannon failures are now more common and deals more damages to the terrain
 ## Create: Power Loader
