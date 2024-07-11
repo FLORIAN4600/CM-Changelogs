@@ -16,7 +16,7 @@
 ## Waystones
 - Removed xp cost
 ## Create
-- Bumped max speed from 256 to 1024
+- Bumped max speed from 256 to 2048
 - Ejector can now eject player to 128 blocks max
 - Windmil sails are now twice as performant
 - Belts can now travel 40 blocks max
