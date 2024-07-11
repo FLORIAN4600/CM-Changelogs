@@ -1,7 +1,3 @@
-// This is a Preview of the 1.3 update. Features announced here might never make their way to the official modpack latest release <br>
-// This Changelog is currently in revision for the v1.3 maintenance <br>
-// **Warning:** Might be unstable
-
 # Create Multiplex v1.3 - Lite
 ## Additions:
 - Brute Force Render Culling [0.5.11] *permisses to cull additionnal chunks that the player cannot see, use for better performances*
