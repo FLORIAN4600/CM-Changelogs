@@ -1,8 +1,7 @@
 # Server Updates & Patches
 ## Configured OpenPaC
-#### Warning: Still WIP (might change in OffiPatch3)
 - Made default player config
-- Locked certain parameters
+- Changed non-op access parameters
 ## BlueMap
 - Changed compression algorythm to zstd, which is faster and produces smaller files
 ## Updated mods:
