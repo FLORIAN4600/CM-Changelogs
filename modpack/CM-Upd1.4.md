@@ -6,6 +6,7 @@
 - Serene Seasons
 - Better Days
 - Immersive Weathering
+- Redirector
 ## Updates:
 - Embeddium
 - Embeddium++
