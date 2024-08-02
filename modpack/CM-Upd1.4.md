@@ -7,6 +7,7 @@
 - Better Days
 - Immersive Weathering
 - Redirector
+- Create: Numismatics
 ## Updates:
 - Embeddium
 - Embeddium++
