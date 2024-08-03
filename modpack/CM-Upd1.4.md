@@ -13,6 +13,8 @@
 - Embeddium++
 - ModernFix
 - JEI
+## Rewinds:
+- Create: Broken Bad [3.2] *putting back the uncensored translation files*
 # Create Multiplex v1.4 - Basic
 ## Additions:
 - Season HUD
