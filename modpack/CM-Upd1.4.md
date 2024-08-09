@@ -8,6 +8,7 @@
 - Immersive Weathering
 - Redirector
 - Create: Numismatics
+- Create: More Features
 ## Updates:
 - Embeddium
 - Embeddium++
