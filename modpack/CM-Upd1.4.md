@@ -9,6 +9,7 @@
 - Redirector
 - Create: Numismatics
 - Create: More Features
+- Create Mechanical Spawner
 ## Updates:
 - Embeddium
 - Embeddium++
